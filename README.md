@@ -31,3 +31,4 @@ Over the past few weeks, I focused on strengthening foundational knowledge neede
 - Treated tools as interchangeable and skills as durable: tools evolve, but strong engineering foundations remain.
 - Used this project as a practical learning strategy to apply concepts in real workflows instead of only reading notes.
 
+![architecture](architecture.png)
