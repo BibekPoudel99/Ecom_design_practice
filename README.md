@@ -22,3 +22,12 @@ The project includes a scheduler for automating ETL runs, enabling regular inges
 
 This work was primarily a learning exercise — I learned by building and iterating on the implementation rather than just reading notes.
 
+## How I did it
+
+Over the past few weeks, I focused on strengthening foundational knowledge needed for modern data infrastructure by building this e-commerce design practice end to end.
+
+- Broke learning into small implementation cycles: design, build, test, refine.
+- Focused on core engineering basics first: data modeling, ETL design, scheduling, and system structure.
+- Treated tools as interchangeable and skills as durable: tools evolve, but strong engineering foundations remain.
+- Used this project as a practical learning strategy to apply concepts in real workflows instead of only reading notes.
+
