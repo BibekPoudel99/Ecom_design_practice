@@ -20,5 +20,5 @@ The project includes a scheduler for automating ETL runs, enabling regular inges
 - Data modeling: designing OLTP schemas and transforming them into OLAP-friendly structures for analytical workloads.
 - Practical pipeline engineering: incremental loads, watermarking, data validation, and modular pipeline components.
 
-This work was primarily a learning exercise — I learned by building and iterating on the implementation rather than just reading notes.
+This work was primarily a learning exercise, I learned by building and iterating on the implementation rather than just reading notes.
 
